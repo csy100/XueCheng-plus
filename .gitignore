@@ -1,5 +1,8 @@
-### IntelliJ IDEA ###
+### Example user template template
+### Example user template
+
+# IntelliJ project files
 .idea
-*.iws
 *.iml
-*.ipr
+out
+gen
